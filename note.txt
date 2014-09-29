@@ -1,0 +1,35 @@
+DFS Search, Straight Line Heuristic
+Solution cost:
+   858
+
+Number of expanded nodes:
+    99
+------------
+Breadth First Search
+Solution cost:
+   246
+
+Number of expanded nodes:
+   215
+------------
+Best First Search, Straight Line Distance Heuristic
+Solution cost:
+   274
+
+Number of expanded nodes:
+    26
+------------
+A* Search, Straight Line Distance Heuristic
+Solution cost:
+   168
+
+Number of expanded nodes:
+    23
+---------------------
+Bidirectional vs Normal
+118
+114
+
+nodes:
+70
+161
